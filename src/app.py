@@ -1,5 +1,4 @@
 # app.py
-# test case
 def add(a, b):
     print("executing addition test case")
     return a + b
